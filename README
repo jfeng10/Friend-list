@@ -1,0 +1,6 @@
+How to play with this toy?
+        1. recommand list contains all potential friends you may know, friend list contains all friends you have added to your list.
+        2. select item(s) click the button << or >> to remove or add friend(s).
+        3. select item, click &quot;show information&quot; to show detail information of this person 
+        (each button for each list respectively).
+        4. click &quot;save&quot; to update the table in our database.
