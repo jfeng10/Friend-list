@@ -1,6 +1,6 @@
 This is an very simple web-app to maintain a list of friends. This is implemented in C#.
 ###I deployed this app on apphb: 
-[http://friend-list.apphb.com/][1], you may visit and have a try.
+[http://friend-list.apphb.com/] [1], you may visit and have a try.
 
 ###How to play with this toy?
 1. recommand list contains all potential friends you may know, friend list contains all friends you have added to your list.
